@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+    height: 300px;
+    vertical-align: middle;
+
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0 15px;
+    gap: 5rem;
+   
+}
+
+.intro {
+    flex: 1;
+}
